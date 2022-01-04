@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on amazing projects
 - 📫 How to reach me
   - email: oayobami15@gmail.com
-  - linkedin[https://www.linkedin.com/in/xlassix/]
+  - [linkedin](https://www.linkedin.com/in/xlassix/)
 - ⚡ Fun fact: This user loves challenges
