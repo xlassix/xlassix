@@ -5,7 +5,9 @@
   - most recent UI implementations:
     - [Leballo](https://xlassix.github.io/Leballo/)
     - [Teca](https://xlassix.github.io/Teca/)
-- 🌱 I’m currently learning solidity and RUST
+   - most recent web3 project 
+    -[Leballo](https://Leballo-35545.web.app/)
+- 🌱 I’m currently working on open source projects.
 - 👯 I’m looking to collaborate on amazing projects
 - 📫 How to reach me
   - email: oayobami15@gmail.com
