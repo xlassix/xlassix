@@ -13,3 +13,8 @@
   - email: [oayobami15@gmail.com](mailto:oayobami15@gmail.com)
   - [linkedin](https://www.linkedin.com/in/xlassix/)
 - ⚡ Fun fact: This user loves challenges
+
+
+other UI implementaions
+[Superlist](https://xlassix.github.io/UI-UX-design-implementations/)
+[M. editor](https://xlassix.github.io/UI-UX-design-implementations/M.%20editor/)
