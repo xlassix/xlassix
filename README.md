@@ -22,5 +22,7 @@ other UI implementaions
 
 ---
 <div align="center">
-[![xlassis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlassix&show_icons=true&theme=dark&border_radius)](https://github.com/xlassix)
+  
+[![ Xlassis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlassix&show_icons=true&theme=dark&border_radius)](https://github.com/xlassix)
+
 </div>
