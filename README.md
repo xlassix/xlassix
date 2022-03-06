@@ -18,3 +18,9 @@
 other UI implementaions
 [Superlist](https://xlassix.github.io/UI-UX-design-implementations/)
 [M. editor](https://xlassix.github.io/UI-UX-design-implementations/M.%20editor/)
+
+
+---
+<div align="center">
+[![xlassis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlassix&show_icons=true&theme=dark&border_radius)](https://github.com/xlassix)
+</div>
