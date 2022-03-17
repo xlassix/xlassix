@@ -3,6 +3,7 @@
 - 👀 I’m interested in building and scaling projects
 - 🔭 I’m currently working on fullstack web applications.
   - most recent UI implementations:
+    - [fragmynt](https://fragmynt.vercel.app/)
     - [Leballo](https://xlassix.github.io/Leballo/)
     - [Teca](https://xlassix.github.io/Teca/)
   - most recent web3 project:
