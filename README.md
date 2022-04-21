@@ -5,6 +5,7 @@
   - most recent UI implementations:
     - [fragmynt](https://fragmynt.vercel.app/)
     - [Leballo](https://xlassix.github.io/Leballo/)
+    - [DelivaMe](https://xlassix.github.io/DelivaMe/)
     - [Teca](https://xlassix.github.io/Teca/)
   - most recent web3 project:
     - [Leballo](https://Leballo-35545.web.app/)
