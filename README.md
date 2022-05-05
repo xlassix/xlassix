@@ -27,6 +27,6 @@ other UI implementaions
   
 [![ Xlassix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlassix&show_icons=true&theme=dark&border_radius)](https://github.com/xlassix)
  
-[![ Xlassix's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xlassix)(https://github.com/xlassix)]
+[![ Xlassix's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xlassix)](https://github.com/xlassix)
 
 </div>
