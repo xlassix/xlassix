@@ -8,6 +8,7 @@
     - [DelivaMe](https://xlassix.github.io/DelivaMe/)
     - [Teca](https://xlassix.github.io/Teca/)
   - most recent web3 project:
+    - [Gruve](https://gruve.events)   
     - [Leballo](https://Leballo-35545.web.app/)
 - 🌱 I’m currently working on open source projects.
 - 👯 I’m looking to collaborate on amazing projects
@@ -22,9 +23,9 @@ other UI implementaions
 [M. editor](https://xlassix.github.io/UI-UX-design-implementations/M.%20editor/)
 
 
----
+<!-- ---
 <div align="center">
   
 [![ Xlassix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlassix&show_icons=true&theme=dark&border_radius)](https://github.com/xlassix)
 
-</div>
+</div> -->
