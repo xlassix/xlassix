@@ -25,7 +25,7 @@ other UI implementaions
 
 More About me:-
 
-I am experienced and proactive Senior Developer passionate about creating scalable and transformative solutions that revolutionize how companies and individuals conduct business. With a strong foundation in **Node.js**, **Golang**, **TypeScript**, **React**, **Python**, **Solidity**, and various advanced technologies to mention a few, I have consistently demonstrated my ability to adapt quickly to new languages and frameworks, enabling me to address complex challenges and lead teams in achieving exceptional outcomes.
+I am an experienced and proactive Senior Developer passionate about creating scalable and transformative solutions that revolutionize how companies and individuals conduct business. With a strong foundation in **Node.js**, **Golang**, **TypeScript**, **React**, **Python**, **Solidity**, and various advanced technologies to mention a few, I have consistently demonstrated my ability to adapt quickly to new languages and frameworks, enabling me to address complex challenges and lead teams in achieving exceptional outcomes.
 
 As an enthusiast for web optimization, API design, and cloud-based services, I continually refine my skills and expand my expertise. My experience in data modelling, database design, event-driven backends, and continuous integration techniques has significantly contributed to the success of various projects, resulting in increased user bases, substantial funding, and hackathon victories. I pride myself on my time management and teamwork abilities, which allow me to collaborate with diverse teams and contribute to high-impact projects effectively.
 
