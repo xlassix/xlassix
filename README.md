@@ -1,16 +1,8 @@
 ### Hi there 👋, I'm Ayobami Oki
 
 - 👀 I’m interested in building and scaling web Solutions
-- 🔭 I’m currently working on revolutionally fullstack web applications.
-  
-- most recent project:
-  - [Gruve](https://gruve.events)
-  - [GruveBlog](https://blog.gruve.events)  
-  
-- most recent UI implementations:
-  - [fragmynt](https://fragmynt.vercel.app/)
-  - [Leballo](https://xlassix.github.io/Leballo/) 
-- 🌱 I’m currently working on open source projects.
+- 🔭 I’m currently working on revolutionary full-stack web applications.
+- 🌱 I’m currently working on open-source projects.
 - 👯 I’m looking to collaborate on amazing projects
 - 📫 How to reach me
   - [linkedin](https://www.linkedin.com/in/xlassix/)
@@ -18,10 +10,14 @@
 - ⚡ Fun fact: This user loves challenges
 
 
-other UI implementaions
-[Leballo](https://xlassix.github.io/Leballo/)
-[Superlist](https://xlassix.github.io/UI-UX-design-implementations/)
-[M. editor](https://xlassix.github.io/UI-UX-design-implementations/M.%20editor/)
+- most recent Side project:
+  - [Gruve](https://gruve.events)
+  - [GruveBlog](https://blog.gruve.events) 
+  - [fragmynt](https://fragmynt.vercel.app/)
+  - [Leballo](https://xlassix.github.io/Leballo/) 
+  - [Leballo](https://xlassix.github.io/Leballo/)
+  - [Superlist](https://xlassix.github.io/UI-UX-design-implementations/)
+  - [M. editor](https://xlassix.github.io/UI-UX-design-implementations/M.%20editor/)
 
 More About me:-
 
